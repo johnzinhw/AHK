@@ -1,0 +1,35 @@
+if 2397, 341 1776493 
+send f1 250
+wait 30
+send f2 250
+end_if
+
+if 2407, 340 66040 
+send f1 250
+wait 30
+send f2 250
+end_if
+ 
+if 2419, 339  197613 
+send f1 250
+wait 30
+send f2 250
+end_if
+
+if 2427, 340 66040 
+send f1 250
+wait 30
+send f2 250
+end_if
+
+if 2427, 342 131824 
+send f1 250
+wait 30
+send f2 250
+end_if
+
+if 2398, 339 255 
+send f1 250
+wait 30
+send f2 250
+end_if
